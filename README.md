@@ -8,6 +8,7 @@ It's an autoplay for virtual pianos.
 
 Just install it and when you double click on it you have a gui who appear and you do click on "load sheets" and in the virtual piano press "f6".
 For create your own sheet, just create a .txt and put in "BPM=TheBPM" and under put the whole sheet.
+For find sheets you can go on this website : https://virtualpiano.net/music-sheets/
 
 
 ## Installation
