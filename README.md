@@ -13,8 +13,9 @@ For create your own sheet, just create a .txt and put in "BPM=TheBPM" and under 
 ## Installation
 
 ```bash
-You need python on ur machine.
+You need python on ur machine
 Just launch the .bat file
+After tht you can just double click on the "main.pyw" for launch the app
 ```
     
 ## Credits
