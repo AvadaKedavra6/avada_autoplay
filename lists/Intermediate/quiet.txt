@@ -1,0 +1,151 @@
+BPM=130
+u|
+[ep]|[tu]|[tu]|
+[ea]|[tus]|[tud]|
+[wf] j [tuf]|[tu]|
+w|[tu]|[tuf]|
+[qf] j [Eyd]|[Ey]|
+q|[Ey]|[Ey] s
+[0f]|[tu]|[tu]|
+[Wd]|[yus]|[yua]|
+[ep]|[tu]|[tu]|
+[ea]|[tus]|[tud]|
+[wf] j [tuf]|[tu]|
+w|[tu]|[tuf]|
+[qf] j [Eyd]|[Ey]|
+q|[Ey]|[Ey]ds
+[qd]|[Ey]|[Ey]|
+q|[Ei]|[Ei] s
+[4j]|[tp]|[tp]|
+[qj]|[tph]|[tpg]|
+[9g]|[eif]|[eid]|
+[9d]|[ei]|[eip] s
+[^d]|[qy]|[qy]|
+^|[qys]|[qyP]|
+[ep]|[tu]|[tu]|
+e|[tu]|[0tu] p
+[9j]|[ei]|[ei]|
+9|[eih]|[eig]|
+[6f]|[tud]|[tus]|
+[6s]|[tua]|[tup]|
+[ra]|[YI]|[YI]|
+e|[YI]|[YI]|
+w|[YI]|[YI]|
+Q|[YI]|[YI] a
+[0f]|[Wu]|[Wu]|
+9|[Wu]|[Wu]|
+8|[Wu]|[Wu]|
+7|[Wu]|u|
+[6p]|[tu]|[tu]|
+[0a]|[tus]|[tud]|
+[5f] j [tuf]|[tu]|
+e|[tu]|[tuf]|
+[4f] j [Eyd]|[Ey]|
+q|[Ey]|[Ey] s
+[0f]|[etu]|[etu]|
+[0d]|[Wrus]|[Wrua]|
+[6p]|[tu]|[tu]|
+[0a]|[tus]|[tud]|
+[5f] j [tuf]|[tu]|
+e|[tu]|[tuf]|
+[4f] j [Eyd]|[Ey]|
+q|[Ey]|[Ey] s
+[0d]|[Ewt]|[Ewt]|
+0|[Ewt]|[Ewts]|
+[qj]|[et]|[et]|
+q|[eth]|[0etg]|
+[9g]|[qyf]|[qyd]|
+[9d]|[qyp]|[qy] s
+[^d]|[qy]|[qy]|
+^|[qy]|[qys] P
+[4p]|[ei]|[ei]|
+8|[qei]|[0ei] p
+[9j]|[ei]|[ei]|
+[9j]|[eih]|[eig]|
+[6f]|[tud]|[tus]|
+[6s]|[tua]|[tup]|
+[7a]|[ruI]|[ruI]|
+7|[ruI]|[ruI]|
+5|[ruI]|[ruI] a
+[$s]|[Irua]|[ruI]|
+[3f]gf[Wru]|[Wru]|
+0|[Wru]|[Wru]|
+0|[Wru]|[Wru]|
+0|[Wru]|[Wruf]|
+[0f]|[wru]|[wru]|
+0|[wru]|[wruf]|
+[0h]|[wru]|[wru]|
+0|[wru]|[wru]|
+[9k]|[wry]|[wry]|
+9|[wry]|[wryz]|
+[9G]|[Qry]|[Qry]|
+9|[Qry]|[ryQG]fG
+[0h]|[wtu]|[wtu]|
+0|[wtu]|[wtuh]|
+[0l]|[etu]|[etu]|
+0|[etu]|[etu]|
+[9k]|[wry]|[wry]|
+9|[wry]|[wryz]|
+[9G]|[Qry]|[Qry]|
+9|[Qry]|[Qry] fG
+[8h]|[wtu]|[wtu]|
+8|[wtu]|[wtuh]|
+[8h]|[tWYJ]|[tWYH]|
+[8h]|[WYtg]|[tWYD]|
+[^P]|[EYo]|[EYo]|
+^|[EYo]|[oEYJ]|
+[^d]|[Eyo]|[Eyo]|
+^|[Eyo]|[Eyo]sd
+[8D]|[tWY]|[tWY]|
+8|[tWY]|[tWYD]|
+[4D]|[Wtih]|[Wtig]|
+[4D]|[Wtid]|[Wtis]|
+[3d]|[eru]|[eru]|
+3|[eru]|[eru]|
+[3f]|[Wru]|[Wru]|
+3||u|
+[ep]|[tu]|[tu]|
+[ea]|[tus]|[tud]|
+[wf] j [tuf]|[tu]|
+w|[tu]|[tuf]|
+[qf] j [Eyd]|[Ey]|
+q|[Ey]|[Ey] s
+[0f]|[tu]|[tu]|
+[Wd]|[yus]|[yua]|
+[ep]|[tu]|[tu]|
+[ea]|[tus]|[tud]|
+[wf] j [tuf]|[tu]|
+w|[tu]|[tuf]|
+[qf] j [Eyd]|[Ey]|
+q|[Ey]|[Ey]ds
+[qd]|[Ey]|[Ey]|
+q|[Ei]|[Ei] s
+[4j]|[tp]|[tp]|
+[qj]|[tph]|[tpg]|
+[9g]|[eif]|[eid]|
+[9d]|[ei]|[eip] s
+[^d]|[qy]|[qy]|
+^|[qys]|[qyP]|
+[ep]|[tu]|[tu]|
+e|[tu]|[0tu] p
+[9j]|[ei]|[ei]|
+9|[eih]|[eig]|
+[6f]|[tud]|[tus]|
+[6s]|[tua]|[tup]|
+[ra]|[YI]|[YI]|
+e|[YI]|[YI]|
+w|[YI]|[YI]|
+Q|[YI]|[YI] a
+[0f]|[Wu]|[Wu]|
+9|[Wu]|[Wu]|
+8|[Wu]|[Wu]|
+7|[Wu]|[Wu] f
+[6j]|[tu]|[tu]|
+[tu]||
+Q|[tu]|[tu]|
+[tu]||j
+[W6x]|[tu]|[tu]|
+[tu]||
+[6Q]|[tu]|[tu]|
+[tu]||x
+[6b] 

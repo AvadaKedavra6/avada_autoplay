@@ -1,0 +1,29 @@
+BPM=130
+8 w u t w t 8 w u t w t
+[8l] w [uk] t [wf] t [8j] w [uh] t [ws] t
+[8d] e i y e [yf] [8g] e i y e y
+[8p] e i y [ea] [ys] [8d] [wf] [yg] [rh] [wj] [yk]
+[8x] w u t w t 8 w u t w t
+[8l] w [uk] t [wf] t [8j] w [uh] t [ws] t
+[8D] e I t e [tf] [7G] e Y e Q e
+[7a] w u [rS] [wD] [rf] [7G] [Qh] [Yj] [rk] [QL] [rZ]
+[0v] r o u r u 0 r o u r u
+[0v] t [ox] u [tl] u [(j] t [Ik] Y [tl] Y
+[9h] w i t w [tj] [wk] r i y r y
+[9c] E [iz] y [EJ] y [*h] E [uj] T [EJ] T
+[8g] E Y E q [Eh] [qj] t Y t e t
+[^j] q [yd] E [wf] E [6g] 9 y e [qh] [ej]
+[5k] 9 r w 9 w [6j] q y e q e
+[^j] w [ud] E [wf] E [6G] Q y e [Qh] [ej]
+[5J] w y E w E [qk] y 0 u 9 i
+[8l] w [uk] t [wf] t [8j] w [uh] t [ws] t
+[8d] e i y e [yf] [8g] e i y e y
+[8p] e i y [ea] [ys] [8d] [wf] [yg] [rh] [wj] [yk]
+[8x] w t w ^ w 6 0 T w 0 w
+[9x] e [iz] y [ej] y [9l] r [ik] y [rg] y
+[0j] t [oh] t [ws] t [eid]|f|s|
+[wf] t o u s o g|h|f|
+[wj] t p u s p [idj]|k|h|
+l|j|h|f|s|p|
+o|u|t|e|w|0|
+8

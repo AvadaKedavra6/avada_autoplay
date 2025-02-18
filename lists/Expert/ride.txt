@@ -1,0 +1,124 @@
+BPM=130
+1|[uos]||[uos]||
+[tup]|2|[tup]|
+6|[tup]||[ips]||
+[uos]|4|[uos]|
+[13]|[uos]|8|[uos]||
+[uos]|[26]|[ipd]|
+[36]|[uos]|6|[uos]||
+[uos]|[46]|[ips]|
+1|u u u u u|
+u u o|[2u] o|u
+6| s s| a
+a| p [4p] o|
+1|u u u|o|
+u|o|[2u]|o u
+6| s s| a
+a| p [4p] o|
+[13]|u u [8u] u u u
+u|o|[26u]|o u
+[36]| s [6s]| a
+a| p [46s]||
+u o [0wtu] o u|[0wto]|
+o p [0wto] p o|[qeys]|
+a|[0wtp]|u|[0wto]|
+u o[0wt] i u o[qet] i
+u o [0wtu] o u|[0wto]|
+o p [0wto] p o|[qeys]|
+a|[80ep]|u|[80eo]|
+u o i u o i
+[18uf]|5|[8ts]|5|
+8|5|[29eyp]|[6u] i
+[60u]|3|[6ts]|3|
+[6u] o3 i [4eup] o1 i
+[130u]|5|[6ts]|5|
+0|5|[26eyp]|[4u] y
+[360tu]|6|[8ts]|6|
+8|3|[46ep]|8 t
+[1t] t[580u] tttt[580u] t
+ttt[580t]tt[2t]tt[69qu] t
+[6t]tt[680u] tttt[680u] t
+ttt[680t]tt[4t]tt[68qu]uu
+[1u]uu[580u]uuyuy[580u] y|
+[580u]uu[2y]uy[69qu]y
+[6y] y[680y]yyy t[680t] t
+y y[680y]yy[4y] t[68qt] u
+[1u] u[580o]ouu u[580o]uu
+uuu[580o]uu[2u]uu[69qo]uu
+[6u]uu[680o]uuuuu[680o]uu
+uuu[680o]uu[4u]uu[68qo]uu
+[1u] u [580u] o u|[580u] u
+u u [580u] o [2u] u [69qu]uo
+[6u] u [680u]uou u [680u]|
+u o [680u] o [4u]|[68q]|
+u o [0wtu] o u|[0wto]|
+o p [0wto] p o|[qeys]|
+a|[0wtp]|u|[0wto]|
+u o[0wt] i u o[qet] i
+u o [0wtu] o u|[0wto]|
+o p [0wto] p o|[qeys]|
+a|[0wtp]|u|[0wto]|
+u o i u o i
+[18uf]|5|[8ts]|5|
+8|5|[29eyp]|[6u] i
+[60u]|3|[6ts]|3|
+[6u] o3 i [4eup] o1 i
+[130u]|5|[6ts]|5|
+8|3|[46ep]|8|
+[80w]|d f f d d
+f||[9qe]||
+[79w]|d f f d d
+d||[80e]||
+[9qe]|d f f d d
+f||[80e]||
+[79w]|d f f d d
+d||[579r]||
+[1358t]|d f f d d
+f|y u [246u] y y
+[257y]|d f f d d
+d||[35r]||
+[246t]|d f f d d
+f|y u [136u] y y
+[257y]|d f f d d
+d||[579]||
+u o [0wtu] o u|[0wto]|
+o p [0wto] p o|[qeys]|
+a|[0wtp]|u|[0wto]|
+u o[0wt] i u o[qet] i
+u o [0wtu] o u|[0wto]|
+o p [0wto] p o|[qeys]|
+[ra]|[ep]|[ra]|[ep]|
+[ts] [yd] [uf] [uf]||
+[180u]|5|[8ts]|5|
+8|5|[29ep]|6|
+[60u]|3|[6ts]|3|
+[6s] s3 d [4tps] s1 d
+[13us]|[5o]|[6tu]|5|
+8|3|[46ts]|[8ra]|
+[36eup]|6|[8ts]|6|
+8|3|[46ep]|8|
+[18u] o [5u] o [8u]|[5o]|
+[8o] p [5o] p [29o]|[6s]|
+[6a]|[3p]|[6u]|[3o]|
+[6u] o3 i [4u] o1 i
+[13u] o [5u] o [6u]|[5o]|
+[0o] p [5o] p [26o]|[4s]|
+[36a]|[6p]|[8u]|[6o]|
+[8u] o3 i [46u] o8 i
+[1358]|||
+y u [246u] y y
+[257y]|||
+[35r]||
+[246t]|||
+y u [136u] y y
+[257y]|||
+[25r]||
+[1358t]|d f f d d
+f|y u [246u] y y
+[257y]|d f f d d
+d||[35r]||
+[246t]|d f f d d
+f|y u [136u] y y
+[257y]|d f f d d
+d||[579r]||
+[1580wt]

@@ -1,0 +1,5 @@
+BPM=120
+j f s j f s j f s j f s j f s
+[sfj] [sfj] [sfj] [sfj] [sfj] [sfj] [sfj] [sfj]
+[afj] [afj] [afj]
+[afh] [afh] [afh] [afh] [afh]

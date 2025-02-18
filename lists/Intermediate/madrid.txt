@@ -1,0 +1,75 @@
+BPM=130
+df[yipg] dfg dfg| j [etuf] j f j f|
+sd[tuof] sdf sdf| h [wryd] h d h d d d f
+[9g] [qg] [eg] [yg]|[ef] [qd] [9f]
+6 [8f] [0f] [ef]|[0d] [8s] [6f]
+8 [0f] [wf] [tf]|[ws] [0s] [8s]
+5 [7a] 9 w|[9d] [7d] [5h]
+[9g] [qg] [eg] [yg]|[ef] [qd] [9f]
+6 [8f] [0f] [ef]|[0d] [8s] [6f]
+8 [0f] [wf] [tf]|[wg] [0f] [8f]
+5 [7d] 9 w|[9d] [7s] [5a]
+[9qep] [9qes] [9qes] s d s a
+[680p] [680s] [680s] s d s d
+[80wf] [80ws] [80ws]|s g f
+[579wf] d| d s a
+[9qep] [9qes] [9qes]|d s a
+[680p] [680s] [680s]|d s d
+[80wf] [80ws] [80ws]|s g f
+[579wf] d f g f d f
+[9qeg]|[9qeg]|[9qej]|[9qeg] f
+[680] f [680] f [680f] d [680s] d
+[80wf]|[80wf]|[80wh]|[80wg] f
+[579] d [579] d [579f] d [579s] a
+[9qep] g [9qeg] g [9qe] p [9qep] o
+[680o] f [680f] f [680] d [680s] d
+[80wf]|[80wf]|[80wh]|[80wg] f
+[579] d [579] f [579g] f [579d] f [9qeg]||
+j g f [680]| f f d s d [80wf]||
+h f d [79w]| d f d s a [9qep]
+g g g [9qe] h g g [680g]
+f d f [680] d s d [80wf]|f|[80wh]|g f [579w] d||
+dfg dfg dfg| j [6f] 8 0 6 8 [0s]d[8f]
+sdf [ws]d[8f] 0 [wh] [5d] 7 9 5|
+gfdf[9g] dfg [ed]f[9g] q [ej]
+[6f] 8 0 6 8 [0s]d[8f]
+sdf [ws]d[8f] 0 [wh] [5d] 7 9 5 7
+d[9s]a[9qep] s s [9qes] d d
+dsa[680p] s s [680s] d d s
+d[8f] f f [wf] [8g] f 0f[wd]s[5d] d d [9d] [5f] dd7 [9f]
+[9g] q [ed] [9d] q [eg]
+[6f] f f [0f] [6f] d [8s] [0d]
+[8f] 0 [ws] [8s] 0 [wf]
+[5d] d [7d] [9d] [5h] g [7f] [9d]
+[9qeg]|[9qe] h [9qeg]|[9qe] dg[680f]|[680] g [680f]ds [680s] d
+[80wf] f [80wf] f [80wg] f [80ws] f
+[579d]|[579] f [579g] f [579d] f
+[9qeg]|g|j|g f
+[680] f|f f d s d
+[80wf]|f|h|g f
+[579] d|d d d s a
+[9qep] g g g|p p o
+[680o] f f f|d s d
+[80wf]|f|h|g f
+[579] d|f g f d f
+[9qeg]| [9qe]|j g f
+[680]| [680f] f d s d
+[80wf]| [80w]|h f d
+[579]| [579d] f d s a
+[9qep] g g [9qeg]|h g g
+[680] f d [680f]|d s d
+[80wf]|f [80w] h|g f [579] d|[579]||
+dfg dfg dfg| j [6f] 8 0 6 8
+[0s]d[8f] sdf [ws]d[8f] 0 [wh] [5d] 7 9 5|
+gfdf[9g] dfg [ed]f[9g] q [ej] [6f] 8 0 6 8
+[0s]d[8f] sdf [ws]d[8f] 0 [wh]
+[5d] 7 [9f] [5g] f [7d] [9f]
+[9g]|g e [9j]|[qg] [ef]
+6 f|[0f] [6f] d [8s] [0d]
+[8f]|f w [8h]|[0g] [wf]
+5 d|[9d] [5d] d [7s] [9a]
+[9p] g g [eg] 9 p [qp] [eo]
+[6o] f f [0f] 6 d [8s] [0d]
+[8f]|f w [8h]|[0g] [wf] 5 d|9 5 7
+[9d]f[9qeg] dfg dfg| j [680f]||
+sd[80wf] sdf sdf| h d

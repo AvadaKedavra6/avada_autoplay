@@ -1,0 +1,30 @@
+BPM=130
+[6u] [8u] [0u] [8t] [6y] 9 q 9
+[%y] [9y] [0y] [9r] [6t] [8t] [0y] [8u]
+[6t] [9t] [qt] [9e] [%r] [9y] [0t] [9r]
+[6u] [8t] [0r] [8e] [3r] % [7W] 0
+[6e] [8e] [0e] [8e] [6y] [9e] [qe] [9e]
+[6u] [8t] [0r] [8e] [%r] [9y] [0t] [9r]
+[6e] 8 0 [8e] [2y] 4 6 [9t]r
+[4t] 6 8 q [30] [%y] [7t] [9r]
+[6e] 8 0 [8e] [2y] 4 6 [9t]r
+[6u] 8 [0e] 8 3 %r[7e] [0W]
+[4q] [tip] [tip] [tip] ^ [yiP] [yiP] [yiP]
+6 [tup] [tup] [psf] [30] [ruO] [ruO] [ruO]
+[4q] [tip] [tip] [tip] [29] [ipd] [ipd] [ipd]
+[30] [Oud] [Oud] [Oud] [Ous]|a|
+4 [tip] [tip] [tip] ^ [yiP] [yiP] [yiP]
+6 [tup] [tup] [psf] 3 [ruO] [ruO] [ruO]
+4 [tip] [tip] [tip] 2 [ipd] [ipd] [ipd]
+3 [Oud] [Oud] [Oud] [Ous]|a|
+[6f] [8f] [0f] [8s] [6d] 9 q 9
+[%d] [9d] [0d] [9a] [6s] [8s] [0d] [8f]
+[6s] [9s] [qs] [9p] [%a] [9d] [0s] [9a]
+[6f] [8s] [0a] [8p] [3a] % [7O] 0
+[6p] [8p] [0p] [8p] [6d] [9p] [qp] [9p]
+[6f] [8s] [0a] [8p] [%a] [9d] [0s] [9a]
+[6p] 8 0 [8p] [2d] 4 6 [9s]a
+[4s] 6 8 q [3u] [%d] [7s] [9a]
+[6p] 8 0 [8p] [2d] 4 6 [9s]a
+[6f] 8 [0p] 8 3 [%a] [7p] [0O]
+[ep]

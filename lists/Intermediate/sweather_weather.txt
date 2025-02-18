@@ -1,0 +1,34 @@
+BPM=130
+d s f [48] [48] q [48]
+d sq f [9e] [9e] y [9ed]
+d sy f [60] [60] e [60]
+d f7 d 8|7 d
+[6d] s5 f [48] [48] q [48]
+d sq f [9e] [9e] y [9ed]
+d f9 d [60] [60s] [ep] [60s]
+d s [7p] d 8|7 d
+[6d] d [5d] s [48d] [48d] 0 [48s]
+d d [qs] d [9ed] [9e] y [9e]
+d d [9s] d [60] [60] [ed] [60s]
+d d [7s] d [8d]|7|
+[6d] d5 d [48] [48] q [48s]
+s hq f [9e] [9e] y [9e]
+d d [ys] d [60] [60] [ed] [60]
+d f 7 d 8|7|
+[6d]|5|[48] [48d] [qd] [48d]d
+d spq|[9e] [9ed] [yd] [9ed]d
+d sf9|[60] [60d] [ed] [60]
+s s 7|8 f [7d]|
+6|[5s] s [48] [48s] [qf] [48]|
+s [qs]|[9e] [9ed] [yd] [9ef]
+d d [9d]|[60d] [60f] [ed] [60f]
+d s [7s]|[8f]|7 d
+[6d]|[5s]|[48d] [48f] [qd] [48s]
+p|[qg]|[9ef] [9e] y [9e]
+p|[yg]|[60f] [60] e [60]|
+7 s [8d]|7 d
+[6d]|[5s]|[48d] [48f] [qd] [48s]
+p|[qg]|[9ef] [9e] y [9e]
+p|[yg]|[60f] [60] e [60d]|
+7 s [8a]|[7a] p
+[6a] s 5|[48ps]

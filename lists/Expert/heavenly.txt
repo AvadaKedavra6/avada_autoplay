@@ -1,0 +1,115 @@
+BPM=130
+[4qra]|8|[4q]|[8ts]| 4|q|8|
+[4qyd]|8|[4q]|[8uf]| 4|q|8|
+[4qra]|8|[4q]|[8ts]| 4|q|8|
+[4qyd]|8|[4q]|[8uf]| 4|q|8|
+[8ra]|w|8|[wts]| 8|t|8|
+[8yd]|w|8|[uf]|w| 8|t|8|
+[8ra]|w|8|[wts]| 8|t|8|
+[8yd]|w|8|[uf]|w| 8|t|8|
+[4qa]|[8a]|[4qa]|[8s]| 4| q|8|
+[4qod]|[8od]|[4qod]|[8of]| 4|q|8|
+[4qa]|[8a]|[4qa]|[8s]| 4|q|8|
+[4qod]|[8od]|[4qod]|[8of]| 4| q|8|
+[8oa]|w|8|[os]|w| 8|t|8|
+[8od]|[wod]|8|[wof]| 8|t|8|
+[8oa]|w|8|[wos]| 8|t|8|
+[8od]|[wod]|8|[wof]| 8|t|8|
+[4qa]|[8a]|[4qa]|[8s]| 4|q|8|
+[4qod]|[8od]|[4qod]|[8of]| 4|q|8|
+[4qa]|[8a]|[4qa]|[8s]| 4|q|8|
+[4qod]|[8od]|[4qod]|[8of]| 4|q|8|
+[8oa]|w|8|[wos]| 8|t|8|
+[6eod]|[8od]|6|[0of]| 6| 0|6|
+[8oa]|w|8|[wos]| 8|t|8|
+[59wod]|[59wod]|[59w]|[59wof]|[59w]| [oa]|
+[8tos]|w|[8t]|[wos]|[8t]|w|[8tos]|w|
+[5woa]|7|[5w]|[7oa]|[5w]|7|[5wp]|7|
+[9ypd]|q|[9y]|[qpd]|[9y]|q|[9ypd]|q|
+[6eps]|8|[6e]|[8ps]|[6e]|8|[6eua]|8|
+[8tos]|w|[8t]|[wos]|[8t]|w|[8tos]|w|
+[5woa]|7|[5w]|[7oa]|[5w]|7|[5wp]|7|
+[9ypd]|q|[9y]|[qpd]|[9y]|q|[9ypd]|q|
+[6eps]|8|[6e]|[8ps]|[6e]|8|[6eua]|8|
+[8to]|[wos]|[8tos]|[wof]|[8t]|[wos]|[8t]|w|
+[5wa]|[7oa]|[5woa]|[7od]|[5w]|[7oa]|[5w]|7|
+[9yp]|[qp]|[9yp]|[qpd]|[9y]|[qa]|[9y]|q|[ps]|
+[6e]|8|[6e]|[8ps]|[6e]|8|[6ea]|8|
+[8to]|[wos]|[8tos]|[wof]|[8t]|[wos]|[8t]|w|
+[5wa]|[7oa]|[5woa]|[7od]|[5w]|[7oa]|[5w]|7|
+[9yp]|[qp]|[9yp]|[qpd]|[9y]|[qa]|[9y]|q|[ps]|
+[6e]|8|[6e]|8|[6euf]|8|[6eyd]|8|
+[8ts]|w|[8t]|[wfx]|[8t]|[wsl]|[8t]|w|
+[5wak]|7|[5w]|[7dz]|[5w]|[7ak]|[5w]|7|
+[9ypj]|q|[9y]|[qdz]|[9y]|[qak]|[9y]|[qsl]|
+[6e]|8|[6e]|[8sl]|[6e]|8|[6eak]|8|
+[8ts]|w|[8t]|[wfx]|[8t]|[wsl]|[8t]|w|
+[5wak]|7|[5w]|[7dz]|[5w]|[7ak]|[5w]|7|
+[9ypj]|q|[9y]|[qdz]|[9y]|[qak]|[9y]|[qsl]|
+[6e]|8|[6e]|[8sl]|[6e]|8|[6eak]|8|
+[4qa]|[8a]|[4qa]|[8s]| 4| q|
+8|[4qod]|[8od]|[4qod]|[8of]| 4|q|
+8|[4qa]|[8a]|[4qa]|[8s]| 4|q|
+8|[4qod]|[8od]|[4qod]|[8of]| 4| q|
+8|[8oa]|w|8|[os]|w| 8|t|
+8|[8od]|[wod]|8|[wof]| 8|t|
+8|[8oa]|w|8|[wos]| 8|t|
+8|[8od]|[wod]|8|[wof]| 8|t|
+8|[4qa]|[8a]|[4qa]|[8s]| 4|q|
+8|[4qod]|[8od]|[4qod]|[8of]| 4|q|
+8|[4qa]|[8a]|[4qa]|[8s]| 4|q|
+8|[4qod]|[8od]|[4qod]|[8of]| 4|q|
+8|[8oa]|w|8|[wos]| 8|t|
+8|[6eod]|[8od]|6|[0of]| 6| 0|
+6|[8oa]|w|8|[wos]| 8|t|
+8|[59wyod]|[59wod]|[59w]|[59wof]|[59w]| [oa]|
+[8tos]|w|[8t]|[wos]|[8t]|w|[8tos]|
+w|[5woa]|7|[5w]|[7oa]|[5w]|7|[5wp]|
+7|[9ypd]|q|[9y]|[qpd]|[9y]|q|[9ypd]|
+q|[6eps]|8|[6e]|[8ps]|[6e]|8|[6eua]|
+8|[8tos]|w|[8t]|[wos]|[8t]|w|[8tos]|
+w|[5woa]|7|[5w]|[7oa]|[5w]|7|[5wp]|
+7|[9ypd]|q|[9y]|[qpd]|[9y]|q|[9ypd]|
+q|[6eps]|8|[6e]|[8ps]|[6e]|8|[6eua]|
+8|[8to]|[wos]|[8tos]|[wof]|[8t]|[wos]|[8t]|
+w|[5wa]|[7oa]|[5woa]|[7od]|[5w]|[7oa]|[5w]|
+7|[9yp]|[qp]|[9yp]|[qpd]|[9y]|[qa]|[9y]|q|
+[ps]|[6e]|8|[6e]|[8ps]|[6e]|8|[6ea]|
+8|[8to]|[wos]|[8tos]|[wof]|[8t]|[wos]|[8t]|
+w|[5wa]|[7oa]|[5woa]|[7od]|[5w]|[7oa]|[5w]|
+7|[9yp]|[qp]|[9yp]|[qpd]|[9y]|[qa]|[9y]|q|[ps]|
+[6e]|8|[6e]|8|[6euf]|8|[6eyd]|
+8|[8ts]|w|[8t]|[wfx]|[8t]|[wsl]|[8t]|
+w|[5wak]|7|[5w]|[7dz]|[5w]|[7ak]|[5w]|
+7|[9ypj]|q|[9y]|[qdz]|[9y]|[qak]|[9y]|
+[qsl]|[6e]|8|[6e]|[8sl]|[6e]|8|[6eak]|
+8|[8ts]|w|[8t]|[wfx]|[8t]|[wsl]|[8t]|
+w|[5wak]|7|[5w]|[7dz]|[5w]|[7ak]|[5w]|
+7|[9ypj]|q|[9y]|[qdz]|[9y]|[qak]|[9y]|
+[qsl]|[6e]|8|[6e]|[8sl]|[6e]|8|[6eak]|
+8|[qs]|8|[qd]|8|[qs]|[8d]|q|[8s]|
+[8w]|w|[8wt]|[8wt]|w|[8w]|[8wtoa]|
+[370oa]| [370oa]|[od]|[370]|[oa]|[370]|
+[oa]|[60eoa]|[os]|[60e]|[os]|[60e]| [60eod]|
+[qos]|8|[qod]|8|[qos]|[8od]|q|
+[8os]|[8w]|w|[8wt]|[8wtos]|w|[8w]|[8wtos]|
+[370oa]| [370]|[od]|[370]| [oa]|[370]|
+[oa]|[60e]|[os]|[60e]|[os]|[60e]| [60eo]|
+[qj]|8|q|8|q|8|[qg]|
+8|[8wf]|w|[8wt]|[8wt]|w|[8w]|[8wt]|
+[370h]| [370]| [370]| [370]|
+[60es]| [60e]| [60e]| [60ed]|
+[48qos]| [48qod]| [48qos]|[od]|[48q]|
+[os]|[8wt]| [8wtod]||[8wtos]|[od]|[8wt]|
+[370oa]| [370oa]|[oa]|[370]|p|[370] o|
+[58wp]|a|[58wa]|a|[58wa]| [58wa]|
+[8to]|[wos]|[8tos]|[wof]|[8t]|[wos]|[8t]|
+w|[5wa]|[7oa]|[5woa]|[7od]|[5w]|[7oa]|[5w]|
+7|[9yp]|[qp]|[9yp]|[qpd]|[9y]|[qa]|[9y]|[qps]|
+[6e]|8|[6e]|[8ps]|[6e]|8|[6ea]|
+8|[8to]|[wos]|[8tos]|[wof]|[8t]|[wos]|[8t]|
+w|[5wa]|[7oa]|[5woa]|[7od]|[5w]|[7oa]|[5w]|
+7|[9yp]|[qp]|[9yp]|[qpd]|[9y]|[qa]|[9y]|
+[qps]|[6e]|8|[6e]|8|[6euf]|8|[6eyd]|
+8|[80ts]|||
+u| o| s| f| h| l| |x

@@ -1,0 +1,77 @@
+BPM=120
+e|||
+o|u e [468]||
+o|u e [579]||
+o|u w [680] e||
+w e t [468]||
+o e [468]||
+o e [579]||u|
+[680y]|t e|
+uuuo [468] u e t [579] r|w [680]
+uuuo [570]|uue [468]|e t [579] r|w [680]
+uuo|[570u] ooouo [468] u e t [579] r|w [680]
+uu i [570o] iu y [468t]|e t [579] y|t [468]|
+o u [579]|t y [69q]|||
+[468] t ou [579u]|
+t y [69q]|u|i|
+t [468o]oo o u|
+ttt[579o]|o r|
+ee [680o]o o u|o|e|u|
+t ooo o u [468]|
+t ooo o r [579]|
+e ooo o u [680] o|||
+t ooo o u [468]||
+o|u y [579]||
+o|u w [680] e||
+w e t [468]||
+o e [468]||
+o e [579]||u|
+[680y]|t e uu uuo
+[468] u e t [579] r|w [680] uuu [570o] uuue
+[468]|e t [579] r|w [680] uuo u[570u] o ouo
+[468] u e t [579] r|w [680] uuu [570o] iu y[468y] t e t
+[579] r|t [680] [tu][tu][ro][ro]
+[570ro] [ro][ro][ro] [ro][ro][468ro] u e t
+[579] r|r [680] oo i [570u] y|yt[468] t e t
+[579] r|t [680]|o u [570]|t y [69q]|u|i||
+[468] t ou [579u]|t y [69q]|u|i|o|
+[468] t ou [579u]|t y [69q]|u|i|o t
+[468o]oo o u| ttt[579o]|o r| ee
+[680o]o o u|o|e|u|t ooo o u [468]|
+t ooo o r [579]| e ooo o u [680] o|||
+t ooo o u [468]||o|u y [579]||o|u w [680] e||
+w e t [468]||
+o e [468]||
+o e [579]||u|
+[680y]|t e||
+[468t]|o u [579]|t y [69q]|u|i||
+[468] t ou [579u]|t y [69q] y t| y|
+[468] t ou [579u]|t y [69q]|u|i||
+[468]|[et][et] [et] [ry]|
+[579]|[ry][ry] [ry] [tu]|
+[680] [uo] [yi] [tu]|[ry]|
+[ry] [ry] [ry] [et][et]||
+[468]|[et][et] [et] [ry]|
+[579ry][ry] [ry][ry] [ry][tu]|
+[680] [uo] [yi] [tu]|[uo] [yi]|
+[tu]|[ry] [ryo]|
+u e [468]||o|
+u e [579]||o|
+u w [680] e||
+w e t [468]||
+o e [468]||
+o e [579]||u|
+[680y]|t e|||
+t ooo o u [468]|ttto|o r [579]|ee oo o u [680] o|e|u| [468]|
+t ooo o u [468]| t ooo o r [579]||e u|[680y]|t e|||
+t ooo o u [468]|ttto|o r [579]|ee oo o u [680] o|e|u| [468]|
+t ooo o u [468]| t ooo o r [579]||e u|[680y]|t e|||
+t ooo o u [468]|||
+t ooo o r [579]|||
+e u|
+[680y]|t e||
+[680]|||
+[680]|||
+[680]|||
+[680]| eet|t y [680]|ee ttt t e
+[680]| eet|t yY[680y]|ee ttt t e [680]
