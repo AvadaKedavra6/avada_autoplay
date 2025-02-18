@@ -12,15 +12,9 @@ For create your own sheet, just create a .txt and put in "BPM=TheBPM" and under 
 
 ## Installation
 
-**For noob ppl :**
 ```bash
 You need python on ur machine.
 Just launch the .bat file
-```
-
-**For intermediate ppl :**
-```bash
-  pip install -r requirements.txt
 ```
     
 ## Credits
