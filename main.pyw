@@ -5,10 +5,10 @@ import time
 import threading
 import re
 
-class DagAutoPlay:
+class AvadaAutoPlay:
     def __init__(self, root):
         self.root = root
-        self.root.title("Dagon Autoplay - Roblox")
+        self.root.title("Avada Autoplay")
         self.notes = []
         self.running = False
         self.bpm = 120
@@ -30,7 +30,7 @@ class DagAutoPlay:
         }
 
         # UI
-        self.label = tk.Label(root, text="Dagon Autoplay", font=("Arial", 16))
+        self.label = tk.Label(root, text="Avada Autoplay", font=("Arial", 16))
         self.label.pack(pady=10)
 
         self.load_button = tk.Button(root, text="Load a sheets", command=self.load_notes, font=("Arial", 12))
@@ -201,5 +201,5 @@ class DagAutoPlay:
 
 if __name__ == "__main__":
     root = tk.Tk()
-    app = DagAutoPlay(root)
+    app = AvadaAutoPlay(root)
     root.mainloop()
